@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Editor\Unity.exe" -batchmode -projectPath "C:\JenkinsWorkspace\depot\Bomberman\Project BomberMan" -executeMethod BuildScript.PerformAllBuilds -quit -logFile ./jenkins/logs/Bomberman/UnityBuildOutput
